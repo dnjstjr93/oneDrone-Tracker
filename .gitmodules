@@ -1,0 +1,9 @@
+[submodule "nCube-TELE-CC"]
+	path = nCube-TELE-CC
+	url = https://github.com/dnjstjr93/nCube-TELE-CC.git
+[submodule "nCube-TELE-HUB-CrowB"]
+	path = nCube-TELE-HUB-CrowB
+	url = https://github.com/dnjstjr93/nCube-TELE-HUB-CrowB.git
+[submodule "nCube-TELE-HUB-PC"]
+	path = nCube-TELE-HUB-PC
+	url = https://github.com/dnjstjr93/nCube-TELE-HUB-PC.git
