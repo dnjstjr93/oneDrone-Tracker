@@ -7,3 +7,21 @@
 [submodule "nCube-TELE-HUB-PC"]
 	path = nCube-TELE-HUB-PC
 	url = https://github.com/dnjstjr93/nCube-TELE-HUB-PC.git
+[submodule "nCube-RC-CC"]
+	path = nCube-RC-CC
+	url = https://github.com/dnjstjr93/nCube-RC-CC.git
+[submodule "nCube-RC-HUB-CrowB"]
+	path = nCube-RC-HUB-CrowB
+	url = https://github.com/dnjstjr93/nCube-RC-HUB-CrowB.git
+[submodule "nCube-RC-HUB-PC"]
+	path = nCube-RC-HUB-PC
+	url = https://github.com/dnjstjr93/nCube-RC-HUB-PC.git
+[submodule "nCube-Man-CrowB"]
+	path = nCube-Man-CrowB
+	url = https://github.com/dnjstjr93/nCube-Man-CrowB.git
+[submodule "nCube-Man-CC"]
+	path = nCube-Man-CC
+	url = https://github.com/dnjstjr93/nCube-Man-CC.git
+[submodule "Drone-Info-Man"]
+	path = Drone-Info-Man
+	url = https://github.com/IoTKETI/Drone-Info-Man.git
