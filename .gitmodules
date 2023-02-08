@@ -27,4 +27,4 @@
 	url = https://github.com/IoTKETI/Drone-Info-Man.git
 [submodule "Ant_Tracker_RF"]
 	path = Ant_Tracker_RF
-	url = https://dnjstjr93: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@github.com/dnjstjr93/Ant_Tracker_RF.git
+	url = https://github.com/dnjstjr93/Ant_Tracker_RF.git
