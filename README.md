@@ -10,7 +10,7 @@ git clone --recurse-submodules https://github.com/dnjstjr93/oneDrone-Tracker.git
 
     in CMD on Windows
     ```shell
-    > scp -r nCube-Man-CrowB nCube-Man-CC nCube-RC-CC nCube-TELE-CC nCube-RC-HUB-CrowB nCube-TELE-HUB-CrowB pi@192.168.101.100:/home/pi
+    > scp -r Ant_Tracker_RF nCube-Man-CrowB nCube-Man-CC nCube-RC-CC nCube-TELE-CC nCube-RC-HUB-CrowB nCube-TELE-HUB-CrowB pi@192.168.101.100:/home/pi
     ```
 2. Crow-Cube
 
@@ -22,18 +22,22 @@ git clone --recurse-submodules https://github.com/dnjstjr93/oneDrone-Tracker.git
 ### Install & Run
 1. Crow-B
 
+   - Ant_Tracker_RF
+        ```shell
+        cd Ant_Tracker_RF && npm install && npm start
+        ```
    - nCube-Man-CrowB
-      ```shell
-      cd nCube-Man-CrowB && npm install && npm start
-      ```
+       ```shell
+       cd nCube-Man-CrowB && npm install && npm start
+       ```
    - nCube-RC-HUB-CrowB
-      ```shell
-      cd nCube-RC-HUB-CrowB && npm install && npm start
-      ```
+     ```shell
+     cd nCube-RC-HUB-CrowB && npm install && npm start
+     ```
    - nCube-TELE-HUB-CrowB
-      ```shell
-      cd nCube-TELE-HUB-CrowB && npm install && npm start
-      ```
+     ```shell
+     cd nCube-TELE-HUB-CrowB && npm install && npm start
+     ```
 2. Crow-Cube
 
    - nCube-Man-CC
